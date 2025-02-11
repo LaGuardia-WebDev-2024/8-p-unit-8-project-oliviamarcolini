@@ -12,11 +12,24 @@ body {
 }
 
 h1{
-  font-size: 30px;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: courier;
+  color: #56c2f5;
+}
+
+#puffer-fish {
+  color: #e6e215;
+}
+
+hr {
+  height: 10px;
+  background-color: navy;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
